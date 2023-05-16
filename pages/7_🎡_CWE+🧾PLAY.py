@@ -67,7 +67,7 @@ else:
     st.markdown(original_title5, unsafe_allow_html=True)
 
 box5 = st.text_input("5. Type a One-word awnser (ALL CAPS)")
-if box5 == ('HILL'):
+if box5 == ('LAKE'):
     original_title4 = '<b><em class = "word break"><p style="font-family:Roboto, cursive; color:Black; font-size: 18px;"><span style="background-color:#2EFE2E">> the grassy :)</span></p></em><b>'
     st.markdown(original_title4, unsafe_allow_html=True)
 else:
@@ -123,7 +123,7 @@ else:
     original_title5 = '<b><em class = "word break"><p style="font-family:Roboto, cursive; color:Red; font-size: 18px;"><span style="background-color:#000000">Try again hehe :))</span></p></em><b>'
     st.markdown(original_title5, unsafe_allow_html=True)
 
-if box1 == '8:48' and box2 == 'SIGNUP GENIUS' and box3 == 'NAHH' and box4 == 'BUSHES' and box5 == 'HILL' and box6 == 'SUNSET' and box7 == 'KISSY VID' and box8 == 'GRAY' and box9 == 'SHAKESPEARE' and box10 == 'NOPE' and box11 == 'TEACHER' and box12 == 'LITTLE RED HEART':
+if box1 == '8:48' and box2 == 'SIGNUP GENIUS' and box3 == 'NAHH' and box4 == 'BUSHES' and box5 == 'LAKE' and box6 == 'SUNSET' and box7 == 'KISSY VID' and box8 == 'GRAY' and box9 == 'SHAKESPEARE' and box10 == 'NOPE' and box11 == 'TEACHER' and box12 == 'LITTLE RED HEART':
     original_title12 = '<b><em class = "word break"><p style="font-family:Roboto, cursive; color:Black; font-size: 40px;"> BABY U DID IT :))))))</p></em><b>'
     st.markdown(original_title12, unsafe_allow_html=True)
     original_title13 = '<b><em class = "word break"><p style="font-family:Roboto, cursive; color:White; font-size: 30px;">finishhhhh :) carnival and play both ina month :) 💜 nowww: What SYMBOL in the middle of that 3d printy silver heart i give u hehe :) (baconian cipher heh)</p></em><b>'
