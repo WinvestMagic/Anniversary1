@@ -121,7 +121,7 @@ if box1 == '1:30' and box2 == '9' and box3 == '24' and box4 == '2 HOURS' and box
     original_title13 = '<b><em class = "word break"><p style="font-family:Roboto, cursive; color:White; font-size: 30px;">hehe u finish :) ahh beaumont was smth else :) 💜 nowww: What color is the little bus token hehe :) (vigenere Cipher good lucky) </p></em><b>'
     st.markdown(original_title13, unsafe_allow_html=True)
     box14 = st.text_input("Final: Type the number out hehe with a smiley face (in vigenere Cipher Cipher) ")
-    if box14 == ('nGmni akr bogpitr Fmeorcbi usxfyyr uiw!'):
+    if box14 == ('CMJFIP'):
         original_title4 = '<b><em class = "word break"><p style="font-family:Roboto, cursive; color:Black; font-size: 18px;"><span style="background-color:#2EFE2E">hehe the whole ride was j woah. Here ur hinty ;)</span></p></em><b>'
         st.markdown(original_title4, unsafe_allow_html=True)
         st.subheader("[Image Hint :)) :heart:]"
