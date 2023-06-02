@@ -158,7 +158,7 @@ if box1 == '4:30' and box2 == 'NAACH' and box3 == 'GOLD' and box4 == 'HEART' and
     original_title13 = '<b><em class = "word break"><p style="font-family:Roboto, cursive; color:Black; font-size: 30px;">finishhhhh :) bday and dil se sooo soo muchy we do :) How many sparkly silver thingies on that braclet hehei gave u :)(add a smiley face to ur awnser)</p></em><b>'
     st.markdown(original_title13, unsafe_allow_html=True)
     box17 = st.text_input("Final: Type the number out hehe with a smiley face (in Atbash Cipher) ")
-    if box17 == ('12 :)'):
+    if box17 == ('GDVOEV :)'):
         original_title4 = '<b><em class = "word break"><p style="font-family:Roboto, cursive; color:Black; font-size: 18px;"><span style="background-color:#2EFE2E">Here ur hinty ;)</span></p></em><b>'
         st.markdown(original_title4, unsafe_allow_html=True)
         st.subheader("[Image Hint :)) :heart:]"
