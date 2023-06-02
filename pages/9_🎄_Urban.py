@@ -130,7 +130,7 @@ if box1 == 'PHOTO ROULETTE' and box2 == 'RICE PURITY TEST' and box3 == '84' and 
     original_title13 = '<b><em class = "word break"><p style="font-family:Roboto, cursive; color:White; font-size: 30px;">finishhhhh :) hehehheh yay :)Whats that thingy on that little figure mans head called heh :) (SHIFT CIPHER)</p></em><b>'
     st.markdown(original_title13, unsafe_allow_html=True)
     box13 = st.text_input("Final: Type the number out hehe with a smiley face (in SHIFTT Cipher) ")
-    if box13 == ('UPQ JCV'):
+    if box13 == ('UPQ JCV :)'):
         original_title4 = '<b><em class = "word break"><p style="font-family:Roboto, cursive; color:Black; font-size: 18px;"><span style="background-color:#2EFE2E">heheh moon palace :) Our place place :) Here ur hinty ;)</span></p></em><b>'
         st.markdown(original_title4, unsafe_allow_html=True)
         st.subheader("[Image Hint :)) :heart:]"
